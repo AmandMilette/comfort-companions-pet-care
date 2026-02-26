@@ -1,1 +1,1 @@
-/app/* https:///wikipedia.org 302!
+/src/* https:///wikipedia.org 302!
