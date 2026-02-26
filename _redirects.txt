@@ -1,2 +1,1 @@
-/* https:///wikipedia.org 302!
-/services https:///proton.me 302!
+/app/* https:///wikipedia.org 302!
